@@ -1,0 +1,115 @@
+---
+title: "Early Onset IRIS Overlapping with Hemophagocytic Lymphohistiocytosis in a Co-infection with *Mycobacterium avium* and *Mycobacterium genavense*: A Case Report Highlighting Diagnostic Challenges"
+
+author:
+  - name: Marco Meroi
+    affiliation:
+      - ref: verona
+  - name: Matteo Morra
+    corresponding: true
+    orcid: 0000-0002-1684-0261
+    email: matteo.morra@univr.it
+    affiliation:
+      - ref: verona
+  - name: Maria Elena De Rui
+    affiliation:
+      - ref: verona
+  - name: Evelina Tacconelli
+    orcid: 0000-0003-2010-4977
+    affiliation:
+      - ref: verona
+  - name: Fabio Soldani
+    affiliation:
+      - ref: verona
+
+affiliations:
+  - id: verona
+    name: "Division of Infectious Diseases, Department of Diagnostics and Public Health, University of Verona, Verona, Italy"
+  
+bibliography: bibliography.bib
+csl: Utils/elsevier-vancouver.csl
+
+lang: en
+
+filters:
+  - authors-block
+  - landscape
+    
+format:
+  wordcount-docx: default
+  pdf:
+    keep-tex: true
+    # in terminal: quarto pandoc --print-default-data-file reference.docx > reference.docx
+    reference-doc: Utils/custum-reference-doc.docx
+---
+
+# Summary
+
+We report an AIDS patient who developed early immune reconstitution inflammatory syndrome complicated by hemophagocytic lymphohistiocytosis after antiretroviral therapy initiation, with concurrent *Mycobacterium avium* and *Mycobacterium genavense* infection. Rapid immune restoration in the setting of dual mycobacterial stimulation triggered a fulminant inflammatory response, leading to an unusually severe and diagnostically challenging presentation.
+
+# Case description
+
+In February 2024, a 45-year-old man from Gambia presented with a 7-day history of fever, mild diarrhea, and diffuse arthralgia, in the context of intermittent febrile episodes ongoing for several months. Laboratory evaluation revealed pancytopenia (hemoglobin level 8.1 g/dL, platelet count 45,000/mm³, white-cell count 2,800/mm³), markedly elevated inflammatory markers (C-reactive protein 331 mg/L, procalcitonin 11.2 ng/mL), acute kidney injury (serum creatinine 5.72 mg/dL), elevated transaminases, and hyperbilirubinemia. Imaging demonstrated pulmonary consolidations, splenomegaly, and abdominal lymphadenopathy. Broad-spectrum antibiotics were initiated empirically.
+
+Despite stable hemodynamics and mental status, the patient was admitted to the intensive care unit due to severe renal dysfunction and systemic inflammation with cytopenia. Malaria testing was negative. HIV serology result was positive. Medical records retrieved from a regional hospital documented a prior diagnosis of HIV infection in 2014, with an HIV-RNA of 2400 IU/mL, a CD4+ T-cell count of 271/μL, and a CD4/CD8 ratio of 0.38 at the time. The patient had not initiated antiretroviral therapy (ART) and had been lost to follow-up shortly thereafter.
+
+Fecal PCR was positive for enteropathogenic *Escherichia coli* and negative for Shigella toxin. Progressive hemolysis and hyperbilirubinemia prompted evaluation for thrombotic microangiopathy (TMA); ADAMTS13 activity was moderately reduced (47.2%). Plasma exchange was initiated for suspected HIV-associated TMA. Bone marrow biopsy showed non-caseating granulomas; Ziehl–Neelsen staining and PCR for *Mycobacterium tuberculosis* complex were negative. Microbiological investigations, including stool cultures, standard and mycobacterial blood cultures, remained negative. HIV viral load exceeded the upper limit of quantification (\>10⁷ copies/mL), with profound immunosuppression (CD4+ count 4/μL, CD4/CD8 ratio 0.01). Following a comprehensive diagnostic work-up that ruled out the most common opportunistic infections, ART with bictegravir, emtricitabine, and tenofovir alafenamide was initiated. On the third day of treatment, the patient developed high-grade fever, mental status changes, worsening cytopenia, and hyperferritinemia (8351 µg/L). Empirical broad-spectrum antibiotics were reintroduced without clinical response. A rapid decline in HIV RNA (\>2.5 log~10~) was documented at day 10. 
+
+The patient fulfilled the HLH-2004 diagnostic criteria and had a HScore of 252, well above the diagnostic threshold of 164, supporting the diagnosis of hemophagocytic lymphohistiocytosis and prompting initiation of corticosteroid therapy[@Henter2025]. Positron emission tomography–computed tomography (PET-CT) scan revealed progression of lymphadenopathy and splenomegaly (see @fig-petct). Given the temporal association with antiretroviral therapy, profound immune restoration, and systemic inflammatory response, immune reconstitution inflammatory syndrome (IRIS) associated with *Mycobacterium avium* complex infection was suspected. A bone marrow aspirate was obtained for mycobacterial culture prior to the initiation of empirical antimycobacterial therapy with clarithromycin and ethambutol.
+
+Fever progressively resolved, and hematologic parameters improved following initiation of corticosteroids and antimycobacterial therapy. As the patient’s clinical condition stabilized, an abdominal lymph node biopsy was performed to clarify the aetiology of the granulomatous disease and exclude lymphoproliferative disorders. Intraoperative exploration revealed a large-volume chylous effusion in the peritoneal cavity; chemical analysis confirmed the presence of chylomicrons. Histologic examination of the lymph node revealed a disrupted nodal architecture, with sheets of histiocytes filled with fibrillar material that was positive on both periodic acid–Schiff (PAS) and Ziehl–Neelsen staining. PCR for *Mycobacterium tuberculosis* complex was negative (see @fig-histology).
+
+Mycobacterial culture from the lymph node specimen subsequently grew high-burden acid-fast bacilli. Molecular testing with a commercial multiplex PCR panel for atypical mycobacteria yielded a positive result, but none of the mycobacteria species included in the panel was positive. The specimen was referred to the national reference center, where whole-genome sequencing identified the organism as *M. genavense*. This was confirmed through 16S rRNA gene analysis and average nucleotide identity  comparison with reference genomes.
+
+In parallel, culture from the previously obtained bone marrow aspirate yielded growth of *M. avium*, which was also confirmed by the reference center. Thus, two distinct species of nontuberculous mycobacteria were identified in separate anatomical compartments: *M. genavense* was isolated in high quantity from the lymph node, while *M. avium* was recovered from the bone marrow.
+
+# Discussion and conclusions
+
+This case presents a unique constellation of features that, to our knowledge, has not been previously reported: IRIS onset by the third day of ART, confirmed dual infection with *M. avium* and *M. genavense*, and the development of HLH in this context. The patient had an extremely high HIV viral load exceeding 10⁷ copies/mL, which dropped by more than 2.5 log~10~ within ten days of starting a bictegravir-based regimen, an immunologic shift likely contributing to the abrupt inflammatory reaction.
+
+IRIS is typically described as a delayed immune-mediated response to opportunistic infections in individuals with advanced HIV, with symptom onset usually occurring between two and eight weeks after ART initiation [@Ambrosioni2023].  Earlier presentations have been reported, but only rarely, and none to date have described onset as early as the third day with complete clinical, microbiologic, and immunologic characterization. In a case of *Pneumocystis*-associated IRIS, symptoms developed three days after ART initiation, but no earlier onset has been described [@Mok2014]. Retrospective datasets report IRIS onset ranging from 1 to 365 days, but without detailed clinical descriptions for the earliest cases [@Tanaka2021]. In most cases of mycobacterial IRIS, symptom onset occurs at least one week after ART, and is frequently associated with a single pathogen, most often Mycobacterium tuberculosis or *Mycobacterium avium* complex [@Murdoch2007]. While *M. genavense* has been recognized as a rare cause of IRIS in severely immunocompromised individuals, onset in published cases has typically occurred later, often after two or more weeks of ART [@Lange2022; @Manion2021]. This is, to our knowledge, the first reported case of HLH triggered by IRIS in *M. genavense* infection.
+
+In our patient, the combination of profound immunosuppression, rapid immune reconstitution, and dual mycobacterial antigenic burden likely precipitated a fulminant hyperinflammatory syndrome. Histopathology confirmed massive infiltration of lymph nodes by acid-fast bacilli, with histiocytic aggregates rich in PAS- and Ziehl–Neelsen–positive fibrillar material. Molecular testing identified *M. genavense* from the lymph node, and *M. avium* from bone marrow—two distinct non-tuberculous mycobacteria, both recognized for their association with disseminated disease in advanced AIDS. The diagnosis of *M. genavense* was initially missed on the commercial PCR panel and confirmed only through whole genome sequencing, highlighting the need for advanced microbiologic diagnostics in atypical presentations.
+
+HLH is a rare, potentially fatal syndrome characterized by uncontrolled activation of T-lymphocytes and macrophages, resulting in hemophagocytosis and excessive release of inflammatory cytokines. It can present as a primary (genetic) disorder or secondary to other conditions, with infections, malignancies, and autoimmune diseases being the most common triggers [@Henter2025; @Hines2022]. 
+
+Notably, HLH is frequently reported as a complication in individuals living with HIV [@Tabaja2022; @Fazal2020]. Clinically, the overlap between IRIS and HLH is increasingly recognized, especially in patients with severe mycobacterial IRIS. The two syndromes share pathophysiologic mechanisms, including uncontrolled macrophage and T-cell activation and a cytokine-driven inflammatory cascade [@Rocco2023; @Bindra2019]. In this case, HLH was diagnosed according to clinical and laboratory criteria, and promptly treated with corticosteroids in combination with antimycobacterial therapy, resulting in gradual resolution of symptoms and haematologic recovery.
+
+This case illustrates how IRIS can occur earlier than commonly expected, and how unusual pathogens such as *M. genavense*, especially when present in co-infection, can drive severe systemic immune complications. It underscores the importance of early recognition, broad diagnostic investigation, and timely initiation of both immunomodulatory and pathogen-specific therapy in patients with advanced HIV initiating ART.
+
+# Contribution
+
+Marco Meroi, Matteo Morra, and Maria Elena De Rui contributed to the writing of the manuscript and to the clinical management of the patient. Evelina Tacconelli provided scientific advice and critical revision of the manuscript. Fabio Soldani supervised the case management and performed the final revision of the article.
+
+We would like to thank Antonietta Brighenti and Nicolò Caldonazzi for kindly providing the histopathological images. We are also grateful to Arash Ghodousi and Emanuele Borroni (San Raffaele Hospital, Milan) for performing the whole genome sequencing as the reference center.
+
+# Conflict of interest
+
+All authors declare that they have no conflicts of interest to disclose. This case has been presented in ESCMID global 2025 in an oral session.
+
+::: {#fig-petct}
+![](Images/fig1.png)
+
+PET-CT scan revealing hypercaptation of enlarged abdominal lymph node, spleen and liver.
+:::
+
+::: {#fig-histology layout-ncol="2"}
+![(A)](images/fig2.png)
+
+![(B)](images/fig3.png)
+
+![(C)](images/fig4.png)
+
+![(D)](images/fig5.png)
+
+Histopathology and Ziehl–Neelsen staining of lymph node tissue showing granulomatous inflammation and acid-fast bacilli.\
+**(A)** Lymph node with disrupted architecture, filled with sheets of histiocytes organized in granuloma-like aggregates.\
+**(B)** Granuloma-like aggregate without a capsule.\
+**(C)** Ziehl–Neelsen staining demonstrating acid-fast positivity in granulomas and surrounding histiocytes.\
+**(D)** Ziehl–Neelsen staining highlighting acid-fast positive histiocytes.
+:::
+
+### References
+
+::: {#refs}
+:::
