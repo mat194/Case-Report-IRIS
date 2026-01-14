@@ -1,0 +1,50 @@
+---
+title: "Cover letter"
+author:
+  - name: Matteo Morra
+    affiliation: Division of Infectious Diseases, University of Verona, Italy
+date: today
+date-format: "DD MMMM, YYYY"
+format:
+  pdf:
+    margin-left: 3cm
+    margin-right: 3cm
+    margin-top: 3cm
+    margin-bottom: 3cm
+  docx: default
+lang: en
+---
+
+**To:**\
+Editor-in-Chief\
+*Infezioni in Medicina*
+
+------------------------------------------------------------------------
+
+Dear Editor,
+
+On behalf of my co-authors, I am pleased to submit for consideration in *Infezioni in Medicina* our manuscript entitled\
+**“Early Onset IRIS Overlapping with Hemophagocytic Lymphohistiocytosis in a Co-infection with *Mycobacterium avium* and *Mycobacterium genavense*: A Case Report Highlighting Diagnostic Challenges.”**
+
+This report addresses a critical and emerging challenge in modern infectious diseases: the intersection between advanced HIV infection, immune reconstitution inflammatory syndrome (IRIS), and dysregulated host immunity in the setting of non-tuberculous mycobacterial disease. We describe a uniquely severe and, to our knowledge, previously unreported clinical scenario—IRIS occurring as early as the third day of antiretroviral therapy, complicated by hemophagocytic lymphohistiocytosis (HLH), and driven by simultaneous infection with *Mycobacterium avium* and *Mycobacterium genavense* in different anatomical compartments.
+
+This case report provides valuable insights into the diagnostic complexities and therapeutic challenges posed by overlapping IRIS and HLH in patients with advanced HIV/AIDS. The rarity of *M. genavense* infections, coupled with the early onset of IRIS and the development of HLH, underscores the need for heightened clinical vigilance and a multidisciplinary approach to management.
+
+We believe that our findings will be of significant interest to the readership of *Infezioni in Medicina*, particularly clinicians and researchers focused on HIV/AIDS, mycobacterial infections, and immune dysregulation.
+
+We would be grateful if you would consider the following experts as potential reviewers, all of whom have relevant expertise in HIV, mycobacterial infections, and immune dysregulation:
+
+-   **Dr Nicolò Riccardi** — University Hospital of Pisa, Italy (nicolo.riccardi\@yahoo.it)
+-   **Prof Olivier Lortholary** — Institut Pasteur & Necker–Pasteur Center for Tropical Diseases, Paris, France (olivier.lortholary\@aphp.fr)
+-   **Dr Maura Manion** — National Institute of Allergy and Infectious Diseases (NIAID), NIH, USA (maura.manion\@nih.gov)
+-   **Dr Joseph Rocco** — NIAID, NIH, USA (roccojm\@nih.gov)
+
+We confirm that this manuscript has not been published elsewhere and is not under consideration by any other journal. All authors have approved the manuscript and agree with its submission to *Infezioni in Medicina*.
+
+Thank you for considering our submission. We look forward to your positive response.
+
+Yours sincerely,
+
+Matteo Morra, MD, PhD student\
+Division of Infectious Diseases, University of Verona, Italy\
+Email: matteo.morra\@univr.it
