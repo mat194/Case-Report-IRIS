@@ -47,11 +47,7 @@ format:
 
 We report an AIDS patient who developed early immune reconstitution inflammatory syndrome complicated by hemophagocytic lymphohistiocytosis after antiretroviral therapy initiation, with concurrent *Mycobacterium avium* and *Mycobacterium genavense* infection. Rapid immune restoration in the setting of dual mycobacterial stimulation triggered a fulminant inflammatory response, leading to an unusually severe and diagnostically challenging presentation.
 
-<<<<<<< HEAD
 # Case description
-=======
-# **Case description**
->>>>>>> cd390dae8bf19f7439c626ca514915e3d568aaaa
 
 In February 2024, a 45-year-old man from Gambia presented with a 7-day history of fever, mild diarrhea, and diffuse arthralgia, in the context of intermittent febrile episodes ongoing for several months. Laboratory evaluation revealed pancytopenia (hemoglobin level 8.1 g/dL, platelet count 45,000/mm³, white-cell count 2,800/mm³), markedly elevated inflammatory markers (C-reactive protein 331 mg/L, procalcitonin 11.2 ng/mL), acute kidney injury (serum creatinine 5.72 mg/dL), elevated transaminases, and hyperbilirubinemia. Imaging demonstrated pulmonary consolidations, splenomegaly, and abdominal lymphadenopathy. Broad-spectrum antibiotics were initiated empirically.
 
@@ -87,11 +83,7 @@ Marco Meroi, Matteo Morra, and Maria Elena De Rui contributed to the writing of 
 
 We would like to thank Antonietta Brighenti and Nicolò Caldonazzi for kindly providing the histopathological images. We are also grateful to Arash Ghodousi and Emanuele Borroni (San Raffaele Hospital, Milan) for performing the whole genome sequencing as the reference center.
 
-<<<<<<< HEAD
 # Conflict of interest
-=======
-# **Conflict of interest**
->>>>>>> cd390dae8bf19f7439c626ca514915e3d568aaaa
 
 All authors declare that they have no conflicts of interest to disclose. This case has been presented in ESCMID global 2025 in an oral session.
 
