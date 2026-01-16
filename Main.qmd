@@ -3,10 +3,12 @@ title: "Early Onset IRIS Overlapping with Hemophagocytic Lymphohistiocytosis in 
 
 author:
   - name: Marco Meroi
+    equal-contributor: true
     affiliation:
       - ref: verona
   - name: Matteo Morra
     corresponding: true
+    equal-contributor: true
     orcid: 0000-0002-1684-0261
     email: matteo.morra@univr.it
     affiliation:
